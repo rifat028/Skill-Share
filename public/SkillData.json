@@ -1,0 +1,98 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://www-ecs.jamplay.com/client/global/images/shell/guitar-lessons/genres/guy-jamming-acoustic.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://converseacademy.com/wp-content/uploads/2024/05/English-post.jpeg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Python Data Analysis Basics",
+    "providerName": "Ravi Kuma",
+    "providerEmail": "ravi@skillswap.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Introduction to Python, Pandas, and data cleaning for reports.",
+    "image": "https://www.dataquest.io/wp-content/uploads/2023/02/Python-1.webp",
+    "category": "Tech"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Oil Painting Techniques",
+    "providerName": "Chloe Vang",
+    "providerEmail": "chloe@skillswap.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Learn color blending and composition for still life and landscapes.",
+    "image": "https://23431466.fs1.hubspotusercontent-na1.net/hubfs/23431466/3%20Oil%20Painting%20Techniques%20All%20Artists%20Should%20Know.png",
+    "category": "Art"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Home Baking Essentials",
+    "providerName": "Jamie Oliveros",
+    "providerEmail": "jamie@skillswap.com",
+    "price": 25,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Mastering bread, cookies, and basic pastries in your kitchen.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScUIRwe2MdfcQSpzP_3VNoKRaWo1k1FbbOBQ&s",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Morning Yoga Flow (Vinyasa)",
+    "providerName": "Priya Sharma",
+    "providerEmail": "priya@skillswap.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 8,
+    "description": "Start your day with an energizing 60-minute Vinyasa sequence.",
+    "image": "https://images.squarespace-cdn.com/content/v1/55a9457de4b0e82a7749b6d3/1595078294608-M9EGNQ43YQUVXXD7HH9Y/PAUSE_0119.png",
+    "category": "Fitness"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Mobile Photography Secrets",
+    "providerName": "Chris Jones",
+    "providerEmail": "chris@skillswap.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Unlock advanced composition and editing tricks using only your smartphone.",
+    "image": "https://www.oneeducation.org.uk/wp-content/uploads/2018/10/10-Mobile-Photography-Course.jpg",
+    "category": "Tech"
+  },
+  {
+    "skillId": 8,
+    "skillName": "Intro to Video Editing (Premiere Pro)",
+    "providerName": "Leah Chen",
+    "providerEmail": "leah@skillswap.com",
+    "price": 30,
+    "rating": 4.6,
+    "slotsAvailable": 4,
+    "description": "Learn the interface, cutting, and basic color correction in a popular industry tool.",
+    "image": "https://static.skillshare.com/uploads/video/thumbnails/3353aa2d196dbf3dd66d4e76d0a132e7/original",
+    "category": "Media"
+  }
+]
